@@ -5,7 +5,7 @@ PATH
       addressable
       em-http-request (~> 1.1.0)
       em-synchrony
-      eventmachine (~> 1.0.4)
+      eventmachine (~> 1.2.0.1)
       eventmachine_httpserver
       http_parser.rb (~> 0.6.0)
       multi_json
@@ -50,7 +50,7 @@ GEM
       eventmachine (>= 1.0.0.beta.4)
     em-synchrony (1.0.5)
       eventmachine (>= 1.0.0.beta.1)
-    eventmachine (1.0.8)
+    eventmachine (1.2.0.1)
     eventmachine_httpserver (0.2.1)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
